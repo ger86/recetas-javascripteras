@@ -1,4 +1,4 @@
-# 💛 Recetas Javascripteras
+# 💛 Recetas Javascripteras (Javascript recipes)
 
 ## Support me buying me a coffe
 
@@ -16,15 +16,15 @@ Since then many of you have asked me to put all of them together somewhere and f
 
 I have grouped the recipes into 9 chapters:
 
-1. Objects & Arrays
-2. Functions
-3. Classes
-4. Special Objects (like Date or Intl)
-5. Asynchronous
-6. Good to know
-7. ECMAScript
-8. Web Development
-9. Programming Concepts
+1. [Objects & Arrays](https://github.com/ger86/recetas-javascripteras/tree/master/1.%20Objects%20%26%20Arrays)
+2. [Functions](https://github.com/ger86/recetas-javascripteras/tree/master/2.%20Functions)
+3. [Classes](https://github.com/ger86/recetas-javascripteras/tree/master/3.%20Classes)
+4. [Special Objects (like Date or Intl)](https://github.com/ger86/recetas-javascripteras/tree/master/4.%20Special%20Objects)
+5. [Asynchronous](https://github.com/ger86/recetas-javascripteras/tree/master/5.%20Asynchronous)
+6. [Good to know](https://github.com/ger86/recetas-javascripteras/tree/master/6.%20Good%20to%20know)
+7. [ECMAScript](https://github.com/ger86/recetas-javascripteras/tree/master/7.%20ECMAScript)
+8. [Web Development](https://github.com/ger86/recetas-javascripteras/tree/master/8.%20Web%20Development)
+9. [Programming Concepts](https://github.com/ger86/recetas-javascripteras/tree/master/9.%20Programming%20Concepts)
 
 In addition, I have taken the opportunity to rewrite each of them in "markdown" format, which has allowed me to complement them with links and videos. In short, "java script recipes" have gone up one more level!
 
