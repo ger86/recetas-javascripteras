@@ -8,7 +8,7 @@
 
 I started writing little **Javascript** recipes in the summer of 2019 as a way to summarize concepts and tricks and share them with the entire community. Since then, every Wednesday I publish a new one in my social networks:
 
-🧑🏼‍💻 [Linkedin de Gerardo Fernández Moreno](https://www.linkedin.com/in/gerardofernandezmoreno/)
+🧑🏼‍💻 [Gerardo in Linkedin](https://www.linkedin.com/in/gerardofernandezmoreno/)
 
 🐦 [Twitter](https://twitter.com/latteandcode)
 
