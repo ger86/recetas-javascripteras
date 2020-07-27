@@ -1,4 +1,4 @@
-# Recetas Javascripteras
+# 💛 Recetas Javascripteras
 
 ## Support me buying me a coffe
 
